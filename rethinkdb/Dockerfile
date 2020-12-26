@@ -27,7 +27,6 @@
 #    connecting you to an already running container.
 
 FROM ubuntu
-MAINTAINER Kimbro Staken
 
 RUN echo "0.2" > /version
 
